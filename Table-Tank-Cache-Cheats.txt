@@ -9,3 +9,7 @@
 [1,50,7,13,12,14,12,12,14,11,12,12]  - Start on Stage 5 with a Sheild, Lazer sight, Bouncy bullets 2+ bullets, & Duel fire.
 
 *Copy the codes only. The coolmath table tank cache should be called: tabletanksplayitnowatcoolmathgamescom.0.TableTanks/save.txt
+
+Code written by: Phinehas Beresford (Crako)
+
+Have Fun ;)
